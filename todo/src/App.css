@@ -62,7 +62,7 @@ body{
 
 
 .option-card:hover{
-  background:white
+  background:white;
   color:white;
   transform:scale(1.05);
 }
